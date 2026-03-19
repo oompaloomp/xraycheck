@@ -40,3 +40,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=0
 hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&insecure=1#🇩🇪 verified · t.me/XRayCheck
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#🇩🇪 verified · t.me/XRayCheck
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#🇳🇱 verified · t.me/XRayCheck
+vless://48ec09b9-17c4-4cbb-b261-ba8423871a81@23.237.64.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=dropbox.com&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&sid=21342134#🇺🇸 verified · t.me/XRayCheck
+vless://9bc2b4de-8dc1-41e8-91d6-37e2687d9eff@46.8.227.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sid=&packetEncoding=xudp#🇺🇸 verified · t.me/XRayCheck
+vless://6cabb434-f480-478a-9586-a5667167eeb1@77.246.111.72:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae&sni=images.apple.com&path=&host=#🇳🇱 verified · t.me/XRayCheck
