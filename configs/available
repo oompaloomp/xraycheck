@@ -143,3 +143,5 @@ vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&t
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#🇷🇺 verified · t.me/XRayCheck
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇦 verified · t.me/XRayCheck
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 verified · t.me/XRayCheck
+hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1#🇭🇰 verified · t.me/XRayCheck
+hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hk3.jueduibupao.top:43802?encryption=none&sni=hk3.jueduibupao.top&xudp=0&insecure=1&allow_insecure=0#🇭🇰 verified · t.me/XRayCheck
