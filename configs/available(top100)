@@ -90,3 +90,8 @@ vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?type=ws&securi
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🇫🇷 verified · t.me/XRayCheck
 hysteria2://820409af-997a-41c4-9e51-46f373951a39@144.24.74.102:50914?insecure=1&sni=www.bing.com#🇰🇷 verified · t.me/XRayCheck
 hysteria2://372f3c21-ca44-4982-a830-d0b81e08a7c8@sg1.shiyuandian.shop:2056?sni=sg1.shiyuandian.shop&insecure=1#🇸🇬 verified · t.me/XRayCheck
+vless://dd7ab17c-92ca-4403-a4ab-388406f84229@185.126.67.43:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=www.vk.com#🇩🇪 verified · t.me/XRayCheck
+ss://YWVzLTI1Ni1nY206ODNhY2Y2OWVkYjRlNTQ1Mw==@194.87.69.100:12091#🇷🇺 verified · t.me/XRayCheck
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?type=ws&security=none&host=&path=%2F#🇷🇺 verified · t.me/XRayCheck
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇬🇧 verified · t.me/XRayCheck
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🇬🇧 verified · t.me/XRayCheck
