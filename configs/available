@@ -48,7 +48,7 @@ hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.c
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-017.fastervpn.world:443?insecure=1&sni=vpn-us-017.fastervpn.world&obfs=&obfs-password=#🇺🇸 verified · t.me/XRayCheck
 hysteria2://strong-secret-pass-777@45.15.171.80:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#🇦🇱 verified · t.me/XRayCheck
 hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000#🇫🇷 verified · t.me/XRayCheck
-hysteria2://hysteria2_fastlane_gznjmjmn8:3y7UHn4GieLWxnE3udqlwd4pQzFPb1U2@64.188.107.79:1935?sni=fn1.h.fastlanehosting.ru#🇫🇮 verified · t.me/XRayCheck
+hysteria2://hysteria2_fastlane_gznjmjmn8:3y7UHn4GieLWxnE3udqlwd4pQzFPb1U2@64.188.107.79:1935?sni=fn1.h.fastlanehosting.ru#🌐 verified · t.me/XRayCheck
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🇫🇷 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@63.180.226.191:443/?insecure=1&sni=vpn-de-002.fastervpn.world#🇩🇪 verified · t.me/XRayCheck
 hysteria2://dongtaiwang.com@163.172.113.118:40022?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#🇫🇷 verified · t.me/XRayCheck
@@ -186,3 +186,16 @@ hysteria2://dongtaiwang.com@163.172.113.118:41984?insecure=1&sni=www.microsoft.c
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.151.127:443/?insecure=1&sni=vpn-sg-002.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
 hysteria2://dongtaiwang.com@163.172.113.118:41984?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000#🇫🇷 verified · t.me/XRayCheck
 hysteria2://dongtaiwang.com@163.172.113.118:41802?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#🇫🇷 verified · t.me/XRayCheck
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@80.209.241.57:2355?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=market.yandex.ru&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&sid=a1335752e0d0969a#🇺🇸 verified · t.me/XRayCheck
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@80.209.241.57:2355?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇺🇸 verified · t.me/XRayCheck
+vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@31.7.61.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&sid=b7031d292d5d&spx=%2F#🇨🇭 verified · t.me/XRayCheck
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.103.62:2355?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=market.yandex.ru&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&sid=a1335752e0d0969a#🇫🇮 verified · t.me/XRayCheck
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.103.62:2355?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇫🇮 verified · t.me/XRayCheck
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.74.149:2355?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=market.yandex.ru&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&sid=a1335752e0d0969a#🇸🇪 verified · t.me/XRayCheck
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.74.149:2355?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇸🇪 verified · t.me/XRayCheck
+vless://211b6f17-c557-4f5a-a56c-0d94186099e1@109.73.199.48:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 verified · t.me/XRayCheck
+vless://65c727b0-a28f-4584-b938-e0db8cf3c62d@109.73.199.48:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 verified · t.me/XRayCheck
+ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.9:40901#🇷🇺 verified · t.me/XRayCheck
+vless://7d3aad33-021a-40f7-981b-7ec29d7fc159@150.241.75.92:2355?flow=xtls-rprx-vision&fp=chrome&pbk=gYLRvAfMAg-ZYgdtA2F_rgV151csPl9z6AJTbwhqz0w&security=reality&sid=e9fe5a1007079dae&sni=market.yandex.ru&type=tcp#🇸🇪 verified · t.me/XRayCheck
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.118.255.80:443/?insecure=1&sni=vpn-us-003.fastervpn.world#🇺🇸 verified · t.me/XRayCheck
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=vpn-us-002.fastervpn.world&obfs=&obfs-password=#🇺🇸 verified · t.me/XRayCheck
