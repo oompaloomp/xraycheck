@@ -106,3 +106,7 @@ vless://503e3714-9c96-4309-87f4-e2beb99abf6c@51.250.97.18:443?flow=xtls-rprx-vis
 vless://f11578bf-f8c0-4141-8338-36c5942d106f@51.250.17.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 verified · t.me/XRayCheck
 vless://f11578bf-f8c0-4141-8338-36c5942d106f@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 verified · t.me/XRayCheck
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 verified · t.me/XRayCheck
+vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.171:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=api-6a20f558.noooo.win&type=tcp#🇫🇷 verified · t.me/XRayCheck
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#🇫🇷 verified · t.me/XRayCheck
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@89.125.48.0:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=teTMlvVIvxF6Zz_UA0GSf0medlqkJfambJFcnXCE3Dg&security=reality&sni=metro.xwhiteness.site&type=tcp#🇳🇱 verified · t.me/XRayCheck
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#🇩🇪 verified · t.me/XRayCheck
