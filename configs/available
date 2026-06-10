@@ -121,3 +121,5 @@ vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?encryption=none&
 vless://ee50180e-8b5b-4341-ada9-5430315079f3@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#🇷🇺 verified · t.me/XRayCheck
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.11:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🇳🇱 verified · t.me/XRayCheck
 hysteria2://miaoge110@5.45.100.100:51511?insecure=1&sni=www.bing.com#🇩🇪 verified · t.me/XRayCheck
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@jp01.jgpy.help:10086?sni=apple.com&insecure=1&allowInsecure=1#🇯🇵 verified · t.me/XRayCheck
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@us01.jgpy.help:10078?sni=apple.com&insecure=1&allowInsecure=1#🇺🇸 verified · t.me/XRayCheck
