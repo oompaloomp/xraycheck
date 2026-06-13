@@ -35,9 +35,9 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?description
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇳🇱 verified · t.me/XRayCheck
 vless://3bb03d0d-d44d-47e9-9611-0f4a3a29498f@212.87.222.62:443?sid=c1663b15b964d89d&fp=firefox&sni=united.lightningrus.ru&type=tcp&security=reality&flow=xtls-rprx-vision&pbk=heEiJwp6ZIwUkD6PVSwYwTthV7ybHCbpkS3qPBoqsHc#🇫🇮 verified · t.me/XRayCheck
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&type=tcp&path=/&allow_insecure=0#🇫🇷 verified · t.me/XRayCheck
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&sni=cdn3-87.vk-cdnvideo.com&type=tcp&path=/#🇳🇱 verified · t.me/XRayCheck
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&sni=cdn3-87.vk-cdnvideo.com&type=tcp&path=/#🇩🇪 verified · t.me/XRayCheck
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.109:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&encryption=none#🇮🇹 verified · t.me/XRayCheck
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?fp=chrome&security=tls#🇳🇱 verified · t.me/XRayCheck
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?fp=chrome&security=tls#🇩🇪 verified · t.me/XRayCheck
 vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?type=tcp&security=reality&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&sid=08bf&sni=yahoo.com#🇵🇱 verified · t.me/XRayCheck
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.136:8443?security=tls&encryption=none&sni=cdn3-25.vk-cdnvideo.com&fp=chrome&type=tcp&path=%2f#🇳🇱 verified · t.me/XRayCheck
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?security=none&allowInsecure=0&encryption=none&type=grpc#🇮🇹 verified · t.me/XRayCheck
@@ -80,7 +80,7 @@ hysteria2://033634aa-43d9-4fc1-ab30-c2e28bb2e607@cdntw.xhl666.top:13456?sni=cdnt
 hysteria2://033634aa-43d9-4fc1-ab30-c2e28bb2e607@cdntw.xhl666.top:13456?headerType=none&encryption=none&sni=cdntw.xhl666.top&insecure=1#🇹🇼 verified · t.me/XRayCheck
 hysteria2://033634aa-43d9-4fc1-ab30-c2e28bb2e607@cdntw.xhl666.top:13456?insecure=1&sni=cdntw.xhl666.top#🇹🇼 verified · t.me/XRayCheck
 hysteria2://033634aa-43d9-4fc1-ab30-c2e28bb2e607@cdntw.xhl666.top:13456?insecure=1&fp=&sni=cdntw.xhl666.top&obfs=&obfs-password=#🇹🇼 verified · t.me/XRayCheck
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇱 verified · t.me/XRayCheck
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇩🇪 verified · t.me/XRayCheck
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇫🇷 verified · t.me/XRayCheck
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?encryption=none&security=tls&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇫🇷 verified · t.me/XRayCheck
 vless://0fd5ed7c-a4d9-4f4f-84c7-dce5c4086463@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#🇷🇺 verified · t.me/XRayCheck
@@ -91,7 +91,7 @@ vless://3dec062d-8da3-49f3-bc46-4e4edfd08505@154.83.159.20:8443?encryption=none&
 vless://4889ee33-74e5-4819-86d8-b2a1a5bc8f46@34.213.172.16:22189?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=firefox&pbk=5tUZskKOCKpjz3j7hmuYaQHNfE1QRtZI9P62qvSs1GY&sid=47b6d14ff477fe59&spx=%2F&flow=xtls-rprx-vision#🇺🇸 verified · t.me/XRayCheck
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&security=tls&sni=&type=tcp#🇫🇷 verified · t.me/XRayCheck
 vless://3e0c34a4-1c38-4d93-88c6-5155e81f8b52@144.31.157.56:443?type=tcp&security=reality&sni=snapp.ir&fp=chrome&flow=xtls-rprx-vision&pbk=D-7qX4fqUFKDS2dQWFgGT4fXJnABnpM6IkU8SDHLMC0&sid=6ba85179e30d4fc2#🇳🇱 verified · t.me/XRayCheck
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&allowInsecure=0#🇳🇱 verified · t.me/XRayCheck
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&allowInsecure=0#🇩🇪 verified · t.me/XRayCheck
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn7-09.vk-cdnvideo.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#🇫🇷 verified · t.me/XRayCheck
 vless://98da482d-6316-4f99-80af-fa51c75578cf@45.198.108.83:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=f45c9665f3261108&sni=storage.yandex.net&type=tcp#🇫🇮 verified · t.me/XRayCheck
 vless://a65d1817-49a5-449f-81b8-37e6e179dc57@br-m247-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=e3152b486a086f4e&sni=rbc.ru&type=tcp#🇧🇷 verified · t.me/XRayCheck
