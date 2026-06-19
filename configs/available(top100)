@@ -21,7 +21,7 @@ vless://252e7311-477b-4713-96ec-30ee8bb5f694@37.156.40.170:22429?fp=firefox&pbk=
 vless://fe4c1e7e-9e81-4c49-96d6-de5331b51d0f@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇷🇺 verified · t.me/XRayCheck
 vless://5607a2a3-f40b-408a-91d1-2b60f8397f79@yixixiawa.xyz:25676?security=reality&encryption=none&pbk=qzoJdZ6dTqapZ2SKlNZ5tvU2JfbxfPJ3vubdZ4264EU&headerType=&fp=edge&type=tcp&sni=www.apple.com&sid=7d93be5bb180#🇸🇬 verified · t.me/XRayCheck
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#🇩🇪 verified · t.me/XRayCheck
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=cdn9-33.vk-cdnvideo.com#🇩🇪 verified · t.me/XRayCheck
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=cdn9-33.vk-cdnvideo.com#🇫🇷 verified · t.me/XRayCheck
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇩🇪 verified · t.me/XRayCheck
 vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&sni=www.tesla.com&sid=1b665f78655294&spx=%2F#🇦🇺 verified · t.me/XRayCheck
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#🇫🇷 verified · t.me/XRayCheck
@@ -95,3 +95,6 @@ hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-nl1.gadmap.online:443?s
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@31.59.39.134:443?headerType=none&encryption=none&sni=connect-nl1.gadmap.online&insecure=0#🇳🇱 verified · t.me/XRayCheck
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-nl1.gadmap.online:443?insecure=1&sni=connect-nl1.gadmap.online#🇳🇱 verified · t.me/XRayCheck
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#🇩🇪 verified · t.me/XRayCheck
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?encryption=none&flow=xtls-rprx-vision&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&security=reality&sid=7d6203949764f921&sni=yourcloud.ldtp.com&type=tcp#🇵🇱 verified · t.me/XRayCheck
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇳🇱 verified · t.me/XRayCheck
+hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@167.104.219.219:443?sni=connect-tr1.gadmap.online#🇹🇷 verified · t.me/XRayCheck
