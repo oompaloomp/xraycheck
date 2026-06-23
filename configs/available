@@ -153,3 +153,5 @@ vmess://eyJhZGQiOiIxMDQuMTguMTkuOTkiLCJpZCI6ImI0YTY1NjExLTQ5NjktNDJiMi1iYzc0LTU3
 trojan://MITIVPN@151.101.1.194:80?path=/ed=mitivpn&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#🇨🇦 verified · t.me/XRayCheck
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?headerType=none&sni=fta.fontanvpn.com&encryption=none&insecure=0#🇫🇮 verified · t.me/XRayCheck
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0&_t=09ddadeb#🇷🇺 verified · t.me/XRayCheck
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 verified · t.me/XRayCheck
+hysteria2://MySecurePassword123@157.230.222.46:8443?sni=wuhantravel.duckdns.org#🇺🇸 verified · t.me/XRayCheck
