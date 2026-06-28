@@ -35,7 +35,7 @@ vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.42:8443?type=tcp&security
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?sni=prod.de-node-01.security-sbrf.ru&fp=firefox&sid=db04ce8bdb8900f1&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&security=reality&type=tcp#🇬🇧 verified · t.me/XRayCheck
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@87.199.192.73:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Lt6X7qMkqASgQr2ErbaUbowSn2ylRuON8BsOjmZv6Qw&sid=b197d7f830dc8062&sni=rezerv19.yunus.guru#🌐 verified · t.me/XRayCheck
 vless://be8bcfe1-4a03-461b-9956-bf6df78a7616@89.208.210.216:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#🌐 verified · t.me/XRayCheck
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&headertype=none%5C#🇫🇮 verified · t.me/XRayCheck
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&headertype=none%5C#🌐 verified · t.me/XRayCheck
 vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.60:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇭🇺 verified · t.me/XRayCheck
 vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@154.222.9.61:8443?pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&fp=firefox&sni=storage.yandex.net&flow=xtls-rprx-vision&type=tcp#🇩🇪 verified · t.me/XRayCheck
 vless://baeb9020-8fcd-0018-b95d-f76507816e6d@pl-root.sworkingvpn.com:443?encryption=none&flow=xtls-rprx-vision&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&headerType=none&security=reality&sni=pl-root.sworkingvpn.com&sid=15bcc0a77c3cacdf&type=tcp&allowinsecure=0&fp=firefox#🇵🇱 verified · t.me/XRayCheck
@@ -75,7 +75,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443?insecure=1#🇩🇪 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.186.167:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.244.64:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&descriptions=_b8a022&sni=https%3A%2F%2Ft.me%2FWangCai2&seq=you_are_beautiful8951#🇹🇼 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.181:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
@@ -85,7 +85,7 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.61.62:443/?insecure=1&sni=vpn-sg-001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.218.10:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83341&seq=you_are_beautiful5049&encryption=none&sni=fta.fontanvpn.com&insecure=0&headerType=none&nonce=mtz0qW0e#🇫🇮 verified · t.me/XRayCheck
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none&headerType=none&sni=fta.fontanvpn.com&insecure=0&seq=you_are_beautiful5049&nonce=QI_2w9Fk#🇫🇮 verified · t.me/XRayCheck
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.170.35:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&__rand=6a997ca5#🇫🇮 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬 verified · t.me/XRayCheck
