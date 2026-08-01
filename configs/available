@@ -117,3 +117,13 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.2
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?allowInsecure=0&insecure=0&sni=fr2.h2corp.org#🇫🇷 verified · t.me/XRayCheck
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?sni=fr2.h2corp.org&insecure=0&allowInsecure=0#🇫🇷 verified · t.me/XRayCheck
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?sni=nederland.gamestocke.ru#🇳🇱 verified · t.me/XRayCheck
+vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@37.221.210.181:443?security=reality&type=xhttp&sni=hu007.bearbeer.digital&fp=chrome&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&encryption=none#🇭🇺 verified · t.me/XRayCheck
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@82.97.252.129:443?security=reality&type=tcp&sni=ads.x5.ru&fp=edge&flow=xtls-rprx-vision&sid=496ee75c2f91f51d&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&encryption=none#🇷🇺 verified · t.me/XRayCheck
+hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🇺🇸 verified · t.me/XRayCheck
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#🇳🇱 verified · t.me/XRayCheck
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?sni=taga2.api3-max.ru&insecure=0#🇹🇷 verified · t.me/XRayCheck
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?sni=taga10.api3-max.ru&insecure=0&allowInsecure=0#🇹🇷 verified · t.me/XRayCheck
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443?security=tls&sni=wopa8.api3-max.ru#🇬🇧 verified · t.me/XRayCheck
+hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:8443?insecure=1&alpn=h3&sni=quic.tyr-agentstvo.tech#🇺🇦 verified · t.me/XRayCheck
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?sni=wopa3.api3-max.ru&insecure=0&allowInsecure=0#🇬🇧 verified · t.me/XRayCheck
+hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443?insecure=1&alpn=h3&sni=quic.tyr-agentstvo.tech#🇺🇦 verified · t.me/XRayCheck
