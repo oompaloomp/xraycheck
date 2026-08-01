@@ -34,7 +34,7 @@ vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flo
 vless://7216b4e8-e935-4d68-b959-73d145accdee@154.222.9.240:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sni=storage.yandex.net&sid=8d3293f0066e129a#🇩🇪 verified · t.me/XRayCheck
 vless://t.me.TradeIP@channel.tradeip.store:8443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=/000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=5625decfd1e54011#🇨🇭 verified · t.me/XRayCheck
 vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.210:448?type=tcp&security=reality&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&fp=chrome&sni=www.samsung.com&sid=113241ad01e99a2d#🇬🇧 verified · t.me/XRayCheck
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=enterprisekitten.com#🇷🇺 verified · t.me/XRayCheck
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=enterprisekitten.com#🌐 verified · t.me/XRayCheck
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@it1-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&fp=qq&sni=it1-akn.astralweb.tech#🇮🇹 verified · t.me/XRayCheck
 vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#🇳🇱 verified · t.me/XRayCheck
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@138.124.112.198:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node7.mxvpn.dev&type=tcp#🇫🇮 verified · t.me/XRayCheck
@@ -72,12 +72,12 @@ hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443?sni=wopa8.api3-max.ru&insecure=0#🇬🇧 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.97.11.1:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world&obfs=&obfs-password=#🇺🇸 verified · t.me/XRayCheck
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world&obfs=&obfs-password=#🇨🇦 verified · t.me/XRayCheck
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦 verified · t.me/XRayCheck
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world&obfs=&obfs-password=#🌐 verified · t.me/XRayCheck
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?sni=wopa7.api3-max.ru&insecure=0#🇬🇧 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.97.11.1:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦 verified · t.me/XRayCheck
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443?insecure=1&sni=wwopa2.api3-max.ru#🇬🇧 verified · t.me/XRayCheck
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦 verified · t.me/XRayCheck
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?insecure=1&sni=104.36.86.93#🇺🇸 verified · t.me/XRayCheck
 hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org#🇩🇪 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.183.85.24:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦 verified · t.me/XRayCheck
