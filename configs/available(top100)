@@ -10,9 +10,9 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encrypti
 vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.210:448?type=tcp&security=reality&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&fp=chrome&sni=www.samsung.com&sid=113241ad01e99a2d#🌐 verified · t.me/XRayCheck
 vless://21b25d87-a7bf-4095-81f0-e6e1eb0e59ab@45.131.212.22:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🌐 verified · t.me/XRayCheck
 vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=yandex.net&type=tcp#🌐 verified · t.me/XRayCheck
-vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 verified · t.me/XRayCheck
+vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🌐 verified · t.me/XRayCheck
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdvymxi.cvewfjg.shop:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#🇩🇪 verified · t.me/XRayCheck
-vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@188.245.156.12:22012?security=reality&type=tcp&sni=login.yahoo.com&fp=firefox&sid=c6e19c434dc87df7&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&encryption=none#🇩🇪 verified · t.me/XRayCheck
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@188.245.156.12:22012?security=reality&type=tcp&sni=login.yahoo.com&fp=firefox&sid=c6e19c434dc87df7&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&encryption=none#🌐 verified · t.me/XRayCheck
 vless://7216b4e8-e935-4d68-b959-73d145accdee@154.222.9.240:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#🇩🇪 verified · t.me/XRayCheck
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?flow=xtls-rprx-vision&fp=random&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&security=reality&sid=143627f1&sni=uwu.spectrumproxy.shop#🌐 verified · t.me/XRayCheck
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.239.182:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&encryption=none#🇩🇪 verified · t.me/XRayCheck
@@ -35,7 +35,7 @@ hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#🇺🇸 ver
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#🇺🇸 verified · t.me/XRayCheck
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#🇺🇸 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=vpn-us-002.fastervpn.world&obfs=&obfs-password=#🌐 verified · t.me/XRayCheck
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world&obfs=&obfs-password=#🇺🇸 verified · t.me/XRayCheck
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world&obfs=&obfs-password=#🌐 verified · t.me/XRayCheck
 hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443?sni=hopp-us.yyuyy.com#🌐 verified · t.me/XRayCheck
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443?insecure=1&sni=www.microsoft.com#🇺🇸 verified · t.me/XRayCheck
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?insecure=0&sni=prodfr.h2corp.org&obfs=&obfs-password=#🌐 verified · t.me/XRayCheck
@@ -49,7 +49,7 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?insecure=0&sni=usa1.spectrumproxy.shop#🇺🇸 verified · t.me/XRayCheck
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🇺🇸 verified · t.me/XRayCheck
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?security=tls&sni=usa1.spectrumproxy.shop#🇺🇸 verified · t.me/XRayCheck
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-003.fastervpn.world#🇺🇸 verified · t.me/XRayCheck
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-003.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?insecure=0&sni=grape-turbo-fr.roxa.org#🌐 verified · t.me/XRayCheck
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&sni=vpn-us-002.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.222.3.181:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🇨🇦 verified · t.me/XRayCheck
@@ -69,7 +69,7 @@ hysteria2://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@ltu-02.node.lumixnet.com:443?sn
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&alpn=h3&sni=germany3.h2corp.local#🌐 verified · t.me/XRayCheck
 hysteria2://HChdbj6duc@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#🌐 verified · t.me/XRayCheck
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=91.196.32.163#🌐 verified · t.me/XRayCheck
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=vpn-ca-001.fastervpn.world#🌐 verified · t.me/XRayCheck
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=vpn-ca-001.fastervpn.world#🇨🇦 verified · t.me/XRayCheck
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?insecure=0&sni=taga5.api3-max.ru#🇹🇷 verified · t.me/XRayCheck
 hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=209.74.81.28#🌐 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#🇹🇼 verified · t.me/XRayCheck
@@ -93,7 +93,7 @@ hysteria2://76kyzc055ahiyfzy@95.217.96.131:52064?obfs=salamander&obfs-password=b
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇬🇧 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.97.11.1:443?insecure=1&sni=vpn-ca-002.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://HChdbj6duc@91.107.178.22:443?insecure=1&sni=&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#🌐 verified · t.me/XRayCheck
-hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻 verified · t.me/XRayCheck
+hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🌐 verified · t.me/XRayCheck
 hysteria2://76kyzc055ahiyfzy@95.217.96.131:52024?obfs=salamander&obfs-password=t72hzzenktxmrvgu&sni=assets.gateway-stream.com#🌐 verified · t.me/XRayCheck
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1&allowInsecure=1#🌐 verified · t.me/XRayCheck
 hysteria2://433def7c1a6e432e8a1ced81e966fe9e@64.188.64.204:443?alpn=h3&fp=chrome&security=tls&sni=ge2.skydrgn.xyz#🌐 verified · t.me/XRayCheck
