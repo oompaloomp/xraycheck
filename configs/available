@@ -190,3 +190,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.225.21:22224?encryption=none
 hysteria2://a6cf39b3-0424-42a2-abf7-b426da69b1a4@de.i-love-russia.online:443?security=tls&alpn=h3&insecure=0&sni=de.i-love-russia.online#🇫🇮 verified · t.me/XRayCheck
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=itsallproxy.quattro-tech.ru#🇷🇺 verified · t.me/XRayCheck
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@de5.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de5.edge-9d7c.com&sid=9d84de9d9f7b85e9#🇺🇸 verified · t.me/XRayCheck
+vless://52ecd83b-b6c1-41ee-bc36-049755bd33d2@5.78.159.214:80?security=reality&encryption=none&pbk=NTXb7QGg9EyPkpG-7lmBNNaqf4473p_l8ITmTH-xmHg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.78.159.214&sid=0db5c018ed7bb596#🇺🇸 verified · t.me/XRayCheck
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&insecure=0&sni=hy.quattro-tech.ru#🇷🇺 verified · t.me/XRayCheck
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru#🇷🇺 verified · t.me/XRayCheck
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?security=tls&sni=127.0.0.1&alpn=h3&insecure=1#🇳🇱 verified · t.me/XRayCheck
