@@ -12,7 +12,7 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.204:443?encryption=none&fl
 vless://8f6e49e6-7f03-4f10-9da9-1716158d80ed@shaa5.pumpkinpie.study:443?type=tcp&headerType=none&security=reality&encryption=none&sni=shaa5.pumpkinpie.study&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&flow=xtls-rprx-vision#🇺🇸 verified · t.me/XRayCheck
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 verified · t.me/XRayCheck
 vless://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@217.60.35.228:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kaneki.cfd&pbk=4jeCe2efqOkTQ-r99RHuACTH8_BuNNP1Rx6cuBXS4hg&sid=a4f8c92d&type=tcp&fp=firefox#🌐 verified · t.me/XRayCheck
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de&fp=safari#🇳🇱 verified · t.me/XRayCheck
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de&fp=safari#🌐 verified · t.me/XRayCheck
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🌐 verified · t.me/XRayCheck
 vless://19513b1b-d29a-4f3e-ba9a-888261e4e048@45.131.212.231:443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=sellflow.org&type=tcp&headerType=none&host=sellflow.org&path=%2F#🌐 verified · t.me/XRayCheck
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🌐 verified · t.me/XRayCheck
@@ -48,7 +48,7 @@ vless://7610be85-9855-4010-8929-ce16d4993969@188.225.25.142:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080?#🌐 verified · t.me/XRayCheck
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sni=www.cloudflare.com&sid=cfe08c23a85f24&spx=%2Ffdded5f9698d939#🌐 verified · t.me/XRayCheck
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9qQDE5My4yOS4xMzkuMjEyOjgwODA=#🇳🇱 verified · t.me/XRayCheck
-vless://8710a337-f504-4b75-8989-224cfd803b2d@2.27.26.128:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&sni=aq-1.global-cdn.org#🇫🇮 verified · t.me/XRayCheck
+vless://8710a337-f504-4b75-8989-224cfd803b2d@2.27.26.128:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&sni=aq-1.global-cdn.org#🌐 verified · t.me/XRayCheck
 vless://7610be85-9855-4010-8929-ce16d4993969@188.225.25.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fe_144ALuRRedGs06ljDnE1f_G2B2wE4i9_diqw5LnY&security=reality&sid=a16bc894&sni=app25.betust.net&type=raw#🇷🇺 verified · t.me/XRayCheck
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🇳🇱 verified · t.me/XRayCheck
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&flow=xtls-rprx-vision&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&sni=www.cloudflare.com&fp=firefox#🌐 verified · t.me/XRayCheck
@@ -59,7 +59,7 @@ vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?type=tcp&securit
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&sni=www.bing.com#🌐 verified · t.me/XRayCheck
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.bulkavpn.top&fp=random&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&sid=94f32cfc&type=tcp#🇫🇮 verified · t.me/XRayCheck
 vless://e4cd263b-c5c7-4410-bf61-8893179ec429@jumpernode.online:443?encryption=none&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=6d962e8d8a0dce&sni=amazon.com&spx=%2F915TScVSG1NVQKZ&type=tcp&fp=chrome#🌐 verified · t.me/XRayCheck
-vless://0afdcc75-e449-418d-8eac-c5b657363443@2.27.211.129:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=-YpJ_Xav7sUkd77sEZjg58Pn6dnNpj5himuUS-OFDh4&sid=fd44fcf1c3afa0af&sni=www.icloud.com#🇳🇱 verified · t.me/XRayCheck
+vless://0afdcc75-e449-418d-8eac-c5b657363443@2.27.211.129:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=-YpJ_Xav7sUkd77sEZjg58Pn6dnNpj5himuUS-OFDh4&sid=fd44fcf1c3afa0af&sni=www.icloud.com#🌐 verified · t.me/XRayCheck
 vless://61bd5829-a243-4548-97f0-a210c2069fec@177.3.208.192:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=news.samsung.com&pbk=vGkEBRDmmgq-5WXr8kQE6xX8ngBdMC2Nf5Q79mklQkE&sid=d0a3cfea8beae643&allowInsecure=1&fp=firefox#🇳🇱 verified · t.me/XRayCheck
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080?#🇳🇱 verified · t.me/XRayCheck
 vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com#🌐 verified · t.me/XRayCheck
@@ -74,7 +74,7 @@ vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?type=tcp&security=
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#🌐 verified · t.me/XRayCheck
 vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?security=reality&encryption=none&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=id-nl-01.mintrocket.org&sid=fee1f986a72444db#🇩🇪 verified · t.me/XRayCheck
 vless://65d3f9b3-d289-4a8e-9c87-90bba156de30@ld.235231.xyz:443?encryption=none&security=tls&type=ws#🇨🇦 verified · t.me/XRayCheck
-vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sni=yandex.ru&sid=5ee019e02e6ed99a#🇷🇺 verified · t.me/XRayCheck
+vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sni=yandex.ru&sid=5ee019e02e6ed99a#🌐 verified · t.me/XRayCheck
 vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=142.91.106.31&fp=random&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&sid=8d66106f&spx=%2F&type=tcp#🇯🇵 verified · t.me/XRayCheck
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#🇹🇼 verified · t.me/XRayCheck
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#🌐 verified · t.me/XRayCheck
@@ -89,7 +89,7 @@ hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?insecure=0
 hysteria2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443?insecure=1&sni=speedtestmark.com#🇱🇻 verified · t.me/XRayCheck
 hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&security=tls&sni=www.bing.com#🇺🇸 verified · t.me/XRayCheck
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#🇺🇸 verified · t.me/XRayCheck
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-fr-002.fastervpn.world#🇫🇷 verified · t.me/XRayCheck
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-fr-002.fastervpn.world#🌐 verified · t.me/XRayCheck
 hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?insecure=0&sni=api-test-udp-traffic.kaneki.cfd#🌐 verified · t.me/XRayCheck
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#🇺🇸 verified · t.me/XRayCheck
 hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=css.rbxcdn.com#🇺🇸 verified · t.me/XRayCheck
