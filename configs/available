@@ -177,3 +177,7 @@ hysteria2://r5uI9R8L6vw5vhtXT4EU9O5XCbHWePj1@191.223.209.245:8443?insecure=1&sni
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=0&sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#🇭🇰 verified · t.me/XRayCheck
 hysteria2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&security=tls&sni=bing.com#🇯🇵 verified · t.me/XRayCheck
 hysteria2://f5f0babe-aea2-4f07-a1fc-3c9820253f49@jp1.frnhk.xyz:9443?sni=jp1.frnhk.xyz&insecure=0#🇯🇵 verified · t.me/XRayCheck
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.67.118.45:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&sni=snip.edgeoneai.cc.cd&alpn=http%2F1.1&fp=chrome#🇨🇦 verified · t.me/XRayCheck
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443/?insecure=1&sni=bing.com#🇯🇵 verified · t.me/XRayCheck
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?security=tls&sni=8.209.247.109&alpn=h3&insecure=1#🇯🇵 verified · t.me/XRayCheck
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?security=tls&sni=bing.com&alpn=h3&insecure=1#🇯🇵 verified · t.me/XRayCheck
